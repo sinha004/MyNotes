@@ -1,0 +1,49 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #6a797b;
+    margin: 0;
+    padding: 0;
+}
+
+/* About Section Styles */
+#about {
+    background-color: #e3e3e3;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#about h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+#about p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+#about ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#about ul li {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+#about ul li a {
+    color: #296db1;
+    text-decoration: none;
+}
+
+#about ul li a:hover {
+    text-decoration: underline;
+}

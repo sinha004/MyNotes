@@ -1,1 +1,2 @@
-# MyNotes
+# QuickNotes
+Notes app 
